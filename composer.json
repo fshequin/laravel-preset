@@ -1,5 +1,5 @@
 {
-    "name": "laracasts/laravel-preset",
+    "name": "fshequin/laravel-preset",
     "description": "The default BTC preset.",
     "keywords": ["laravel","laravel preset", "btc", "btc preset"],
     "license": "MIT",
