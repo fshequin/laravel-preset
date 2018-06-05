@@ -19,14 +19,4 @@ class LaracastsServiceProvider extends ServiceProvider
             Preset::install();
         });
     }
-
-    /**
-     * Register services.
-     *
-     * @return void
-     */
-    public function register()
-    {
-        //
-    }
 }
