@@ -1,0 +1,23 @@
+{
+    "name": "laracasts/laravel-preset",
+    "description": "The default BTC preset.",
+    "keywords": ["laravel","laravel preset", "btc", "btc preset"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fred Shequine",
+            "email": "fred@btcny.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Laracasts\\LaravelPreset\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": ["Laracasts\\LaravelPreset\\LaracastsServiceProvider"]
+        }
+    }
+}
