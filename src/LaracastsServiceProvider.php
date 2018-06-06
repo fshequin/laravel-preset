@@ -2,7 +2,7 @@
 
 namespace Laracasts\LaravelPreset;
 
-use Laracasts\Preset;
+use Laracasts\LaravelPreset\Preset;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\Console\PresetCommand;
 
